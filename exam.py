@@ -22,6 +22,6 @@ while i<5:
  elif ch==4:
     print(a,"/",b,"=",div(a,b))
  else:
-    print("invalid")
+    print("not valid!!")
     break
 i+=1
